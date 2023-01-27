@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @naveengitboi
 - 👀 I’m interested in Problem solving.
-- 🌱 I’m currently learning python and javascript
+- 🌱 I’m currently learning python DSA and C++
 - 💞️ I’m looking to collaborate on frontend projects
 - 📫 How to reach me naveenjangiti9@gmail.com , feel free to dm me on twitter @navetwets, linkedin Naveen Jangiti
 
