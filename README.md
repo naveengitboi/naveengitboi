@@ -2,7 +2,7 @@
 - 👀 I’m interested in Problem solving.
 - 🌱 I’m currently learning python DSA and C++
 - 💞️ I’m looking to collaborate on frontend projects
-- 📫 How to reach me naveenjangiti9@gmail.com , feel free to dm me on twitter @navetwets, linkedin Naveen Jangiti
+- 📫 How to reach me naveenjangiti9@gmail.com , https://naveenau.netlify.app/  (Contact Page not working :( )
 
 <!---
 naveengitboi/naveengitboi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
