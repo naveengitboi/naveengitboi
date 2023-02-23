@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jangiti Naveen</h1>
-<h3 align="center">A passionate Fullstack Developer from India</h3>
+<h3 align="center">You have to do your own growing, no matter how tall your grandfather was--Abraham Lincoln</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naveengitboi&label=Profile%20views&color=0e75b6&style=flat" alt="naveengitboi" /> </p>
 
