@@ -2,6 +2,12 @@
 🔭 I’m currently working on Real-world Projects<br>👯 I’m looking to collaborate on Frontend and Backend<br>🤝 I’m looking for good interaction with devs <br>🌱 I’m currently learning TS, Django, DSA
 
 
+PORTFOLIO 
+
+graphicdesignerau.netlify.app
+
+naveenau.netlify.app
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/Naveen Jangiti](https://www.linkedin.com/in/naveen-jangiti-1a1b86235/)) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/navetwets) 
 
