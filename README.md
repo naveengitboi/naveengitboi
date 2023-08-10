@@ -1,11 +1,9 @@
   # 💫 ABOUT ME:-
 🔭 I’m currently working on Real-world Projects<br>👯 I’m looking to collaborate on Frontend and Backend<br>🤝 I’m looking for good interaction with devs <br>🌱 I’m currently learning TS, Django, DSA
 
-
 PORTFOLIO
 
 graphicdesignerau.netlify.app
-
 naveenau.netlify.app
 
 ## 🌐 Socials:
