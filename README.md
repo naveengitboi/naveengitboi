@@ -1,4 +1,5 @@
   # 💫 ABOUT ME:-
+  I'm keeping all my efforts in learning and exploring in studies. Sometimes I feel like i fucked up, and unworthy. I feel I'm dumb and fucked all the way in life. If you are reading this message dont forgot to wave hand at me. I feel better when I clubed or spoke with someone. 
 🔭 I’m currently working on Real-world Projects<br>👯 I’m looking to collaborate on Frontend and Backend<br>🤝 I’m looking for good interaction with devs <br>🌱 I’m currently learning TS, Django, DSA
 
 PORTFOLIO
